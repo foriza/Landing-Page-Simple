@@ -1,3 +1,6 @@
+This is initial wireframe for simple landing page template. 
+It uses auto-layout in figma then generated into code with plasmic. 
+
 This is a Next.js project bootstrapped with [`create-plasmic-app`](https://www.npmjs.com/package/create-plasmic-app).
 
 ## Getting Started
